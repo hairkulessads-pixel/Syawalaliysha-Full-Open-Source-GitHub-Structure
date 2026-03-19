@@ -1,0 +1,1 @@
+{"pipeline": {"build": {"cache": {"paths": ["node_modules/", "dist/"]}, "command": "npm run build"}, "dev": {"cache": {"paths": ["node_modules/"]}, "command": "npm run dev"}, "lint": {"cache": {"paths": []}, "command": "npm run lint"}}}

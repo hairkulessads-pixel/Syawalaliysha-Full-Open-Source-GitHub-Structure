@@ -1,0 +1,1 @@
+{\n  "name": "cli-tool",\n  "version": "1.0.0",\n  "bin": {\n    "cli": "index.js"\n  },\n  "dependencies": {\n    "commander": "^8.0.0",\n    "inquirer": "^8.0.0",\n    "chalk": "^4.0.0",\n    "ora": "^6.0.0",\n    "fs-extra": "^10.0.0",\n    "axios": "^0.21.1",\n    "execa": "^5.0.0",\n    "dotenv": "^10.0.0"\n  }\n}
